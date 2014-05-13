@@ -1,0 +1,5 @@
+database: "~/relay-servers.db" # server database path
+ports:
+	client:  1881
+	admin:   1883
+	server:  1885
